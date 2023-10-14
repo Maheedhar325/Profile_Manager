@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">l4</string>
+    <string name="app_title">Soccer Team Manager</string>
+    <string name="name_hint">Please enter a team name</string>
+    <string name="name_label">Team Name</string>
+    <string name="address_hint">Please enter the ZIP Code</string>
+    <string name="address_label">Team Address</string>
+    <string name="button_label">Open in Google Maps</string>
+    <string name="avatar_label">Select a new Avatar</string>
+    <string name="profile_button">Load from Phone</string>
+</resources>
