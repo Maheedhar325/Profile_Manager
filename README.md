@@ -1,1 +1,1 @@
-# Sport-Centric Profile_Manager
+# Sport-Centric Profile Manager Application
